@@ -19,7 +19,10 @@ This is a fun and interactive lottery game web app developed using HTML, CSS, an
 - **HTML**
 - **CSS**
 - **JavaScript**
-  
+
+## Live Demo
+[Click here to view the live demo](https://vasavi37.github.io/LotteryGame/)
+
 ## Author
 **Vasavi**  
 
